@@ -1,0 +1,9 @@
+{
+  "name": "gqlite",
+  "version": "0.0.1",
+  "description": "GraphQL simple & light client & server",
+  "main": "index.js",
+  "repository": "git@github.com:sgtram/gqlite.git",
+  "author": "Bogdan Deren <b.deren@tmg.nl>",
+  "license": "MIT"
+}
